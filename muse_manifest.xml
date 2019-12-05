@@ -1,0 +1,341 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cosimo.palma@protonmail.com" resolutions="1x" timestamp="1574018104150">
+  <folder name="css">
+    <file name="site_global.css" crc="459391899"/>
+    <file name="master_home-master.css" crc="3782888065" ref="index"/>
+    <file name="nomq_preview_master_home-master.css" crc="4171096339" ref="index"/>
+    <file name="index.css" crc="4148987861" ref="index"/>
+    <file name="nomq_index.css" crc="4115982693" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="group 33.jpg" crc="147277159" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ep logo rgb_mute@2x.png" crc="168714569" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="european parliamentdirectorate-general for translation@2x.png" crc="3877459328" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="terminologycoordination.png" crc="3793900131" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2265-4.png" crc="4196681339" ref="index"/>
+    <file name="line 1.jpg" crc="511577785" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="home.png" crc="476618065" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1432.png" crc="3828913539" ref="index"/>
+    <file name="u1432-r.png" crc="3828913539" ref="index"/>
+    <file name="u1426.png" crc="3801480775" ref="index"/>
+    <file name="u1426-r.png" crc="3801480775" ref="index"/>
+    <file name="u1412.png" crc="455514557" ref="index"/>
+    <file name="u1412-r.png" crc="455514557" ref="index"/>
+    <file name="u1394.png" crc="4275992722" ref="index"/>
+    <file name="u1394-r.png" crc="4275992722" ref="index"/>
+    <file name="u1390-4.png" crc="218825643" ref="index"/>
+    <file name="fb-banner-self-similartity-in-texts-700x389.jpg" crc="4273733986" ref="index"/>
+    <file name="videofix.jpg" crc="433426360" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interview-u1337-fr.png" crc="3929515019" ref="index"/>
+    <file name="food.jpg" crc="202445200" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aitech.jpg" crc="248397272" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1331-4.png" crc="4006351982" ref="index"/>
+    <file name="u1307-4.png" crc="471258841" ref="index"/>
+    <file name="u1304-4.png" crc="178499302" ref="index"/>
+    <file name="u1378-4.png" crc="3884675722" ref="index"/>
+    <file name="u1381-4.png" crc="4290288084" ref="index"/>
+    <file name="u1387-4.png" crc="4064564998" ref="index"/>
+    <file name="u1384-4.png" crc="3864106506" ref="index"/>
+    <file name="u3151.png" crc="4115026900" ref="index"/>
+    <file name="u3151-r.png" crc="4115026900" ref="index"/>
+    <file name="u3157.png" crc="250396784" ref="index"/>
+    <file name="u3157-r.png" crc="250396784" ref="index"/>
+    <file name="u2580-23.png" crc="79239043" ref="index"/>
+    <file name="u1622-4.png" crc="299826053" ref="index"/>
+    <file name="u1631-4.png" crc="4042194607" ref="index"/>
+    <file name="glossaries.svg" crc="3953442110" ref="index"/>
+    <file name="glossaries_poster_u1527.png" crc="383303506" ref="index"/>
+    <file name="tools.svg" crc="4021063387" ref="index"/>
+    <file name="tools_poster_u2515.png" crc="3759248007" ref="index"/>
+    <file name="reads.svg" crc="173872668" ref="index"/>
+    <file name="reads_poster_u2507.png" crc="4177639151" ref="index"/>
+    <file name="terminology websites.svg" crc="4006389661" ref="index"/>
+    <file name="terminology websites_poster_u2523.png" crc="339955666" ref="index"/>
+    <file name="u1649-4.png" crc="4147191442" ref="index"/>
+    <file name="u1652-4.png" crc="4144026120" ref="index"/>
+    <file name="u1655-4.png" crc="4220862767" ref="index"/>
+    <file name="u1658-4.png" crc="3807223046" ref="index"/>
+    <file name="u1661-4.png" crc="201444386" ref="index"/>
+    <file name="u1667-5.png" crc="418672300" ref="index"/>
+    <file name="iate_logo.png" crc="9796255" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="termer-400x400 - kopie (2).jpg" crc="4025256750" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download_iate-tbx.jpg" crc="101781209" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tutorials-banner.jpg" crc="85656588" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iate management group.jpg" crc="531223470" ref="index"/>
+    <file name="u3571-4.png" crc="3820247746" ref="index"/>
+    <file name="wikis-languages.jpg" crc="3929880014" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eurterm.png" crc="409442234" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3568-4.png" crc="207089661" ref="index"/>
+    <file name="bar-u1694-fr.jpg" crc="516111297" ref="index"/>
+    <file name="u3001-4.png" crc="123289883" ref="index"/>
+    <file name="u1726-4.png" crc="69333920" ref="index"/>
+    <file name="u3245-4.png" crc="4085141150" ref="index"/>
+    <file name="u1730-4.png" crc="4006360469" ref="index"/>
+    <file name="u1758-4.png" crc="365682226" ref="index"/>
+    <file name="u3230-4.png" crc="3783496558" ref="index"/>
+    <file name="u3656.png" crc="212612106" ref="index"/>
+    <file name="u3656-r.png" crc="212612106" ref="index"/>
+    <file name="u3721.png" crc="242243514" ref="index"/>
+    <file name="u3721-r.png" crc="242243514" ref="index"/>
+    <file name="u3727.png" crc="327286284" ref="index"/>
+    <file name="u3727-r.png" crc="327286284" ref="index"/>
+    <file name="u3733.png" crc="81579220" ref="index"/>
+    <file name="u3733-r.png" crc="81579220" ref="index"/>
+    <file name="u3739.png" crc="4054627730" ref="index"/>
+    <file name="u3739-r.png" crc="4054627730" ref="index"/>
+    <file name="bar.jpg" crc="32784423" ref="index"/>
+    <file name="u1854-4.png" crc="4165104661" ref="index"/>
+    <file name="u1890-4.png" crc="3771319215" ref="index"/>
+    <file name="u1896-4.png" crc="4164387607" ref="index"/>
+    <file name="universitylogo.jpg" crc="173527487" ref="index"/>
+    <file name="u1967-6.png" crc="3871335322" ref="index"/>
+    <file name="u1970-6.png" crc="60710012" ref="index"/>
+    <file name="u1981-4.png" crc="4124163053" ref="index"/>
+    <file name="u1990-6.png" crc="477196636" ref="index"/>
+    <file name="u2193-4.png" crc="511512673" ref="index"/>
+    <file name="u2202-4.png" crc="3999519964" ref="index"/>
+    <file name="shutterstock_587189375.jpg" crc="4033839308" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2241-6.png" crc="4096549109" ref="index"/>
+    <file name="u2298-6.png" crc="3777261946" ref="index"/>
+    <file name="u3275-6.png" crc="3765916095" ref="index"/>
+    <file name="u3278-4.png" crc="3762056495" ref="index"/>
+    <file name="shutterstock_283663202.jpg" crc="3815639647" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="defence-terminology-banner.jpg" crc="455896666" ref="index"/>
+    <file name="yourterm.jpg" crc="267895779" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2302-4.png" crc="3792430573" ref="index"/>
+    <file name="group 33@2x.png" crc="4262548512" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2280-4.png" crc="4285535326" ref="index"/>
+    <file name="u14322.png" crc="311917907" ref="index"/>
+    <file name="u1432-r2.png" crc="311917907" ref="index"/>
+    <file name="u14262.png" crc="23192921" ref="index"/>
+    <file name="u1426-r2.png" crc="23192921" ref="index"/>
+    <file name="u14122.png" crc="3897650049" ref="index"/>
+    <file name="u1412-r2.png" crc="3897650049" ref="index"/>
+    <file name="u13942.png" crc="408051295" ref="index"/>
+    <file name="u1394-r2.png" crc="408051295" ref="index"/>
+    <file name="u1390-42.png" crc="24621966" ref="index"/>
+    <file name="fb-banner-self-similartity-in-texts-700x389-u1435-fr.jpg" crc="3001237" ref="index"/>
+    <file name="videofix-u1340-fr.jpg" crc="4029301112" ref="index"/>
+    <file name="interview-u1337-fr2.png" crc="498023794" ref="index"/>
+    <file name="food-u1343-fr.jpg" crc="4033179662" ref="index"/>
+    <file name="aitech-u1334-fr.jpg" crc="3885831037" ref="index"/>
+    <file name="u1331-42.png" crc="166200465" ref="index"/>
+    <file name="u1307-42.png" crc="3860560064" ref="index"/>
+    <file name="u1304-42.png" crc="409699470" ref="index"/>
+    <file name="u1378-42.png" crc="3772524007" ref="index"/>
+    <file name="u1381-42.png" crc="247737784" ref="index"/>
+    <file name="u1387-42.png" crc="84941713" ref="index"/>
+    <file name="u1384-42.png" crc="4275065487" ref="index"/>
+    <file name="u31512.png" crc="140901008" ref="index"/>
+    <file name="u3151-r2.png" crc="140901008" ref="index"/>
+    <file name="u31572.png" crc="274660226" ref="index"/>
+    <file name="u3157-r2.png" crc="274660226" ref="index"/>
+    <file name="u2578.png" crc="3930962212" ref="index"/>
+    <file name="u2578-r.png" crc="412688953" ref="index"/>
+    <file name="u2578-m.png" crc="412688953" ref="index"/>
+    <file name="u2578-a.png" crc="3933928387" ref="index"/>
+    <file name="u1622-42.png" crc="8011186" ref="index"/>
+    <file name="u1631-42.png" crc="4024675352" ref="index"/>
+    <file name="u1649-42.png" crc="190085562" ref="index"/>
+    <file name="u1652-42.png" crc="495088449" ref="index"/>
+    <file name="u1655-42.png" crc="4231182370" ref="index"/>
+    <file name="u1658-42.png" crc="7708182" ref="index"/>
+    <file name="u1661-42.png" crc="201072024" ref="index"/>
+    <file name="u1667-52.png" crc="28664195" ref="index"/>
+    <file name="iate_logo-u1733-fr.png" crc="514797801" ref="index"/>
+    <file name="iate management group-u3554-fr.jpg" crc="3967826680" ref="index"/>
+    <file name="u3571-42.png" crc="261840581" ref="index"/>
+    <file name="u3568-42.png" crc="4282666200" ref="index"/>
+    <file name="bar-u1694-fr2.jpg" crc="4140286194" ref="index"/>
+    <file name="u3001-42.png" crc="3863770636" ref="index"/>
+    <file name="u1726-42.png" crc="4216816442" ref="index"/>
+    <file name="u3245-42.png" crc="4052200735" ref="index"/>
+    <file name="u1730-42.png" crc="58559794" ref="index"/>
+    <file name="u1758-42.png" crc="4033298698" ref="index"/>
+    <file name="u3230-42.png" crc="3837168647" ref="index"/>
+    <file name="u36562.png" crc="4196346058" ref="index"/>
+    <file name="u3656-r2.png" crc="4196346058" ref="index"/>
+    <file name="u37212.png" crc="150930998" ref="index"/>
+    <file name="u3721-r2.png" crc="150930998" ref="index"/>
+    <file name="u37272.png" crc="4163810517" ref="index"/>
+    <file name="u3727-r2.png" crc="4163810517" ref="index"/>
+    <file name="u37332.png" crc="451397876" ref="index"/>
+    <file name="u3733-r2.png" crc="451397876" ref="index"/>
+    <file name="u37392.png" crc="43971917" ref="index"/>
+    <file name="u3739-r2.png" crc="43971917" ref="index"/>
+    <file name="u1854-42.png" crc="4102002630" ref="index"/>
+    <file name="u1890-42.png" crc="63104419" ref="index"/>
+    <file name="u1896-42.png" crc="218239349" ref="index"/>
+    <file name="universitylogo-u1905-fr.jpg" crc="223830250" ref="index"/>
+    <file name="u1967-62.png" crc="4245206801" ref="index"/>
+    <file name="u1970-62.png" crc="327367610" ref="index"/>
+    <file name="u1981-42.png" crc="4272457594" ref="index"/>
+    <file name="u1990-62.png" crc="3860646424" ref="index"/>
+    <file name="u2193-42.png" crc="267427301" ref="index"/>
+    <file name="u2202-42.png" crc="234172652" ref="index"/>
+    <file name="shutterstock_587189375-u2220-fr.jpg" crc="234303006" ref="index"/>
+    <file name="u2241-62.png" crc="43824720" ref="index"/>
+    <file name="u2298-62.png" crc="4124347302" ref="index"/>
+    <file name="u3275-62.png" crc="509511374" ref="index"/>
+    <file name="u3278-42.png" crc="460712235" ref="index"/>
+    <file name="shutterstock_283663202-u2223-fr.jpg" crc="72802376" ref="index"/>
+    <file name="defence-terminology-banner-u3602-fr.jpg" crc="4043475337" ref="index"/>
+    <file name="u2302-42.png" crc="400790065" ref="index"/>
+    <file name="u3107-10.png" crc="150806491" ref="index"/>
+    <file name="u3122-4.png" crc="3907347185" ref="index"/>
+    <file name="u3111.png" crc="4194849549" ref="index"/>
+    <file name="u3111-r.png" crc="4194849549" ref="index"/>
+    <file name="u3117.png" crc="3839522056" ref="index"/>
+    <file name="u3117-r.png" crc="3839522056" ref="index"/>
+    <file name="u3140-4.png" crc="4028595968" ref="index"/>
+    <file name="u1304-43.png" crc="4266889265" ref="index"/>
+    <file name="u1307-43.png" crc="3950115695" ref="index"/>
+    <file name="u14323.png" crc="4129624075" ref="index"/>
+    <file name="u1432-r3.png" crc="4129624075" ref="index"/>
+    <file name="u14263.png" crc="4248568011" ref="index"/>
+    <file name="u1426-r3.png" crc="4248568011" ref="index"/>
+    <file name="u14123.png" crc="513150855" ref="index"/>
+    <file name="u1412-r3.png" crc="513150855" ref="index"/>
+    <file name="u13943.png" crc="456748989" ref="index"/>
+    <file name="u1394-r3.png" crc="456748989" ref="index"/>
+    <file name="u1390-43.png" crc="4042763426" ref="index"/>
+    <file name="fb-banner-self-similartity-in-texts-700x389-u1435-fr2.jpg" crc="314076344" ref="index"/>
+    <file name="videofix-u1340-fr2.jpg" crc="4277840388" ref="index"/>
+    <file name="interview-u1337-fr3.png" crc="73759334" ref="index"/>
+    <file name="food-u1343-fr2.jpg" crc="3990839034" ref="index"/>
+    <file name="aitech-u1334-fr2.jpg" crc="3857552251" ref="index"/>
+    <file name="u1331-43.png" crc="3768309206" ref="index"/>
+    <file name="u1378-43.png" crc="3935206259" ref="index"/>
+    <file name="u1381-43.png" crc="51964601" ref="index"/>
+    <file name="u1387-43.png" crc="71843841" ref="index"/>
+    <file name="u1384-43.png" crc="4090660035" ref="index"/>
+    <file name="u31513.png" crc="416680012" ref="index"/>
+    <file name="u3151-r3.png" crc="416680012" ref="index"/>
+    <file name="u31573.png" crc="61116827" ref="index"/>
+    <file name="u3157-r3.png" crc="61116827" ref="index"/>
+    <file name="u1622-43.png" crc="4010027557" ref="index"/>
+    <file name="u1631-43.png" crc="332362726" ref="index"/>
+    <file name="u1649-43.png" crc="4054651902" ref="index"/>
+    <file name="u1652-43.png" crc="259114804" ref="index"/>
+    <file name="u1655-43.png" crc="3992772675" ref="index"/>
+    <file name="u1658-43.png" crc="159493474" ref="index"/>
+    <file name="u1661-43.png" crc="3924758769" ref="index"/>
+    <file name="u1667-53.png" crc="73770438" ref="index"/>
+    <file name="iate_logo-u1733-fr2.png" crc="4237758420" ref="index"/>
+    <file name="download_iate-tbx-u3361-3-fr.jpg" crc="4171900019" ref="index"/>
+    <file name="tutorials-banner-u3525-fr.jpg" crc="26689651" ref="index"/>
+    <file name="iate management group-u3554-fr2.jpg" crc="523352960" ref="index"/>
+    <file name="u3571-43.png" crc="4263433497" ref="index"/>
+    <file name="wikis-languages-u3574-fr.jpg" crc="103766368" ref="index"/>
+    <file name="u3568-43.png" crc="4063859099" ref="index"/>
+    <file name="bar-u1694-fr3.jpg" crc="518479406" ref="index"/>
+    <file name="u3001-43.png" crc="28825351" ref="index"/>
+    <file name="u3230-43.png" crc="336605651" ref="index"/>
+    <file name="u36563.png" crc="203338375" ref="index"/>
+    <file name="u3656-r3.png" crc="203338375" ref="index"/>
+    <file name="u37213.png" crc="4085821382" ref="index"/>
+    <file name="u3721-r3.png" crc="4085821382" ref="index"/>
+    <file name="u37393.png" crc="4074229824" ref="index"/>
+    <file name="u3739-r3.png" crc="4074229824" ref="index"/>
+    <file name="u37333.png" crc="3830502998" ref="index"/>
+    <file name="u3733-r3.png" crc="3830502998" ref="index"/>
+    <file name="u37273.png" crc="3866141390" ref="index"/>
+    <file name="u3727-r3.png" crc="3866141390" ref="index"/>
+    <file name="u1730-43.png" crc="210611716" ref="index"/>
+    <file name="u1758-43.png" crc="4080008597" ref="index"/>
+    <file name="u1726-43.png" crc="3945071203" ref="index"/>
+    <file name="u3245-43.png" crc="372661347" ref="index"/>
+    <file name="u1854-43.png" crc="4258762231" ref="index"/>
+    <file name="u1890-43.png" crc="148240395" ref="index"/>
+    <file name="u1896-43.png" crc="3804567984" ref="index"/>
+    <file name="u1967-63.png" crc="4048994730" ref="index"/>
+    <file name="u1990-63.png" crc="205764787" ref="index"/>
+    <file name="u2193-43.png" crc="169567721" ref="index"/>
+    <file name="u2202-43.png" crc="497322732" ref="index"/>
+    <file name="u2241-63.png" crc="4097418621" ref="index"/>
+    <file name="u3278-43.png" crc="507161273" ref="index"/>
+    <file name="defence-terminology-banner-u3602-fr2.jpg" crc="263029345" ref="index"/>
+    <file name="yourterm-u3613-fr.jpg" crc="498540599" ref="index"/>
+    <file name="universitylogo-u1905-fr2.jpg" crc="4034039465" ref="index"/>
+    <file name="u1970-63.png" crc="30511103" ref="index"/>
+    <file name="u1981-43.png" crc="3799100763" ref="index"/>
+    <file name="shutterstock_587189375-u2220-fr2.jpg" crc="4254015118" ref="index"/>
+    <file name="u2298-63.png" crc="302447797" ref="index"/>
+    <file name="u3275-63.png" crc="4254147965" ref="index"/>
+    <file name="shutterstock_283663202-u2223-fr2.jpg" crc="54476937" ref="index"/>
+    <file name="u2302-43.png" crc="3800719800" ref="index"/>
+  </folder>
+  <file name="index.html" crc="501532598" seo="true" mt="1574017997416" redirect="true"/>
+</manifest>
